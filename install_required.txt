@@ -1,2 +1,2 @@
 To install colorama run comand in terminal: 
-"pip install colorama"
+"pip install colorama" 
